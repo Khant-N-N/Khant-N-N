@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Khant Nyi Nyi</h1>
-<h3 align="center">A passionate frontend developer. I can create beautiful UI websites using javascript, react. And I'm learning to be a fullstack developer</h3>
+<h3 align="center">A passionate web developer. I can create beautiful UI websites using javascript, typescript, react. And I'm learning to be a fullstack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khant-n-n&label=Profile%20views&color=0e75b6&style=flat" alt="khant-n-n" /> </p>
 
 <p align="center"><img width="300" alt="coding" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952kt435iahupjb4zm36e3zo5jbrm37v1haho0l41v8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" /></p>
