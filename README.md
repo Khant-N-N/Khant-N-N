@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952kt435iahupjb4zm36e3zo5jbrm37v1haho0l41v8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
+  <img width="300" alt="coding" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952kt435iahupjb4zm36e3zo5jbrm37v1haho0l41v8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
@@ -54,6 +54,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khant-n-n&show_icons=true&locale=en&layout=compact" alt="khant-n-n" /></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khant-n-n" alt="khant-n-n" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khant-n-n&show_icons=true&locale=en" alt="khant-n-n" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khant-n-n&" alt="khant-n-n" /></p>
 ###
